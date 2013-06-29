@@ -1,14 +1,12 @@
-# Install AppCleaner Puppet Module for Boxen
+# AppCleaner Puppet Module for Boxen
 
-AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
+[![Build Status](https://travis-ci.org/boxen/puppet-appcleaner.png?branch=master)](https://travis-ci.org/boxen/puppet-appcleaner)
 
-
-See http://www.freemacsoft.net/appcleaner/ for more. 
+[AppCleaner](http://www.freemacsoft.net/appcleaner/) is a small application which allows you to thoroughly uninstall unwanted apps.
 
 ## Usage
 
-```include appcleaner```
-
+`include appcleaner`
 
 ## Development
 
