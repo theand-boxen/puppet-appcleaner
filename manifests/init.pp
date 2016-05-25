@@ -2,7 +2,7 @@
 #
 # include appcleaner
 class appcleaner(
-  $version = '3.2.1'
+  $version = '3.3'
 ) {
   package { 'AppCleaner':
     provider => 'compressed_app',
